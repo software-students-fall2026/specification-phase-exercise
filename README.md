@@ -124,7 +124,7 @@ During use of The Slide Machine, particular attention was given to requests for 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Extend The Slide Machine with structured, editable graph and chart generation that allows instructors to turn spoken equations, data, and quantitative relationships into accurate, clearly labelled visuals during live lectures, while giving students clearer visual representations that remain available in the shared lecture materials for understanding and revision.
 
 ## User Requirements
 
