@@ -9,20 +9,34 @@ See instructions. Delete this line and replace with a list of the names of your 
 ## Review of the Current Application
 
 During hands-on testing of The Slide Machine with lectures covering physics, introductory Python programming, and mathematics, the following strengths, weaknesses, and gaps were observed:
-[Strength] The system accurately generated simple mathematical expressions when they were stated verbally during a lecture.
-[Strength] When the system correctly understood the direction of the lecture, it was sometimes able to generate relevant slides quickly enough to keep pace with the speaker.
-[Strength] Incorrect or unnecessary generated content could be edited or removed, and unnecessary slides could be deleted while the lecture was still in progress.
-[Weakness] Generated images and animations were sometimes inaccurate or did not correctly represent the concept being discussed.
-[Weakness] The system sometimes misinterpreted the context or timing of spoken content. Incidental remarks, transitions, and references to future topics occasionally caused irrelevant or mistimed slides to be generated.
-[Weakness] Slide generation was more predictable when the lecture followed a prepared structure, while natural deviations from that structure were more likely to result in irrelevant or mistimed content.
-[Weakness] The system sometimes repeatedly changed or regenerated the same slide while the lecturer continued speaking, which made the live presentation difficult to follow.
-[Weakness] Summary and key-takeaway slides did not consistently summarize only the material covered in the lecture. In some cases, new or future topics were introduced instead.
-[Weakness] Spoken programming content was not handled consistently. Code such as print("Hello World") was not reliably represented as code, programming keywords were not clearly distinguished from normal text, and unintended code such as x = 10 was sometimes generated.
-[Weakness] Live transcription was less reliable when speech was fast or when pronunciation or accent varied, causing the system to fall behind or misunderstand parts of the lecture.
-[Weakness] Some automatically generated exit-ticket questions were inaccurate or did not correctly reflect the material covered during the lecture.
-[Gap] The system could not generate an actual graph when explicitly requested; it instead showed generic images of parabola-like graphs.
-[Gap] Text boxes could not be repositioned to adjust their distance from slide borders, limiting the lecturer's control over slide layout and spacing.
-[Gap] The system did not appear to respond when the lecturer directly addressed it as “Slide Machine” and verbally requested an action during the lecture.
+
+1. **[Strength]** The system accurately generated simple mathematical expressions when they were stated verbally during a lecture.
+
+2. **[Strength]** When the system correctly understood the direction of the lecture, it was sometimes able to generate relevant slides quickly enough to keep pace with the speaker.
+
+3. **[Strength]** Incorrect or unnecessary generated content could be edited or removed, and unnecessary slides could be deleted while the lecture was still in progress.
+
+4. **[Weakness]** Generated images and animations were sometimes inaccurate or did not correctly represent the concept being discussed.
+
+5. **[Weakness]** The system sometimes misinterpreted the context or timing of spoken content. Incidental remarks, transitions, and references to future topics occasionally caused irrelevant or mistimed slides to be generated.
+
+6. **[Weakness]** Slide generation was more predictable when the lecture followed a prepared structure, while natural deviations from that structure were more likely to result in irrelevant or mistimed content.
+
+7. **[Weakness]** The system sometimes repeatedly changed or regenerated the same slide while the lecturer continued speaking, making the live presentation difficult to follow.
+
+8. **[Weakness]** Summary and key-takeaway slides did not consistently summarize only the material covered in the lecture. In some cases, new or future topics were introduced instead.
+
+9. **[Weakness]** Spoken programming content was not handled consistently. Code such as `print("Hello World")` was not reliably represented as code, programming keywords were not clearly distinguished from normal text, and unintended code such as `x = 10` was sometimes generated.
+
+10. **[Weakness]** Live transcription was less reliable when speech was fast or when pronunciation or accent varied, causing the system to fall behind or misunderstand parts of the lecture.
+
+11. **[Weakness]** Some automatically generated exit-ticket questions were inaccurate or did not correctly reflect the material covered during the lecture.
+
+12. **[Gap]** The system could not generate an actual graph when explicitly requested; it instead showed generic images of parabola-like graphs.
+
+13. **[Gap]** Text boxes could not be repositioned to adjust their distance from slide borders, limiting the lecturer's control over slide layout and spacing.
+
+14. **[Gap]** The system did not appear to respond when the lecturer directly addressed it as "Slide Machine" and verbally requested an action during the lecture.
 
 ## Prior Art & Originality
 
