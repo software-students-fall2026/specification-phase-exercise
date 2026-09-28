@@ -160,6 +160,29 @@ Extend The Slide Machine with structured, editable graph and chart generation th
 **User Story #1:**  
 As an instructor, I want The Slide Machine to generate a graph from an equation I say during lecture so that I can visually explain the relationship to my students.
 
+![User Story 1 Activity Diagram](UserStory1.drawio.png)
+
+### Activity Diagram 2 — Instructor: Edit a Generated Graph
+
+**User Story #7:**  
+As an instructor, I want to edit graph labels, titles, and units so that I can correct or clarify the generated visual before using it in my lecture.
+
+![User Story 7 Activity Diagram](UserStory7.drawio.png)
+
+### Activity Diagram 3 — Student: View a Generated Graph in Shared Lecture Materials
+
+**User Story #8:**  
+As a student, I want graphs used during the lecture to remain in the shared lecture materials so that I can review them later while studying.
+
+![User Story 8 Activity Diagram](UserStory8.drawio.png)
+
+### Activity Diagram 4 — Student: View a Corrected Graph in Shared Lecture Materials
+
+**User Story #9:**  
+As a student, I want corrected versions of inaccurate graphs to appear in the shared lecture materials so that I do not study from incorrect information.
+
+![User Story 9 Activity Diagram](UserStory9.drawio.png)
+
 
 ## Wireframes
 
